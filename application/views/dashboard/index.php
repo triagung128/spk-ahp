@@ -49,16 +49,6 @@
       </div>
    </div>
 
-   <div class="card mt-3">
-      <h5 class="card-header">Anggota Kelompok :</h5>
-      <div class="card-body">
-         <p class="card-text">- Tri Agung Susilo (161105150965)</p>
-         <p class="card-text">- Nuril Huda Ahsina (161105150594)</p>
-         <p class="card-text">- Kiki Meidinasari (161105150546)</p>
-         <p class="card-text">- Yoga Wahyu Prasetyo (161105150547)</p>
-         <p class="card-text">- Rizky Nurdiansyah</p>
-      </div>
-   </div>
 <?php } else { ?>
    <p>Test</p>
 <?php } ?>
