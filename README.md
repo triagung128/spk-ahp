@@ -20,10 +20,11 @@ Sistem Pendukung Keputusan (SPK) Penentuan UMKM Terbaik merupakan tugas project 
 
 ### Demo
 Link website : Coming Soon <br>
-Untuk database, username dan password, hub: [Telegram](https://t.me/triagung128)
+Untuk database, username dan password, hub: [My Telegram](https://t.me/triagung128)
 
-<br><br>
+<br/><br/>
 
 ## Author
 • **Tri Agung Susilo**
+<br/>
 Dont for get to Follow and ★ Star
