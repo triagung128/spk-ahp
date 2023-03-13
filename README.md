@@ -20,8 +20,8 @@ Sistem Pendukung Keputusan (SPK) Penentuan UMKM Terbaik merupakan tugas project 
 
 ## Demo
 Link website : coming soon. <br />
-Untuk database bisa membelinya dengan hubungi: <br />
-https://t.me/triagung128 atau triagung128@gmail.com
+Untuk database bisa membelinya dengan hubungi : <br />
+https://t.me/triagung128 atau triagung128@gmail.com.
 
 ## Author
 **Tri Agung Susilo** <br />
